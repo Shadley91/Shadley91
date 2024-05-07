@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shadley Philander=========================================================================================================================================Entry-level Software Developer------------------------------I completed a Software Development course in April 2024, with CodeSpace Academy. I am eager to learn and better my skills as a developer and to learn new languages and technologies. I am able to learn at a fast pace and approach new challenges and tasks with an open mind.* 🌍  I'm based in Cape Town* ✉️  You can contact me at [shadley.phil@gmail.com](mailto:shadley.phil@gmail.com)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shadley Philander.
+Entry-level Software Developer. 
+I completed a Software Development course in April 2024, with CodeSpace Academy. I am eager to learn and better my skills as a developer and to learn new languages and technologies. I am able to learn at a fast pace and approach new challenges and tasks with an open mind.* 🌍  I'm based in Cape Town* ✉️  You can contact me at [shadley.phil@gmail.com](mailto:shadley.phil@gmail.com)
 
 ### Skills
 
